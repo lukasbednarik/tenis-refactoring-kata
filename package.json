@@ -1,0 +1,15 @@
+{
+  "name": "tenis-kata",
+  "version": "1.0.0",
+  "description": "Tests are available to be run both with node.js and in the browser. For node, simply call   node TennisTest.js (Only failures will be shown on the console)",
+  "main": "TenisGame1.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
